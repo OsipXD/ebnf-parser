@@ -1,0 +1,3 @@
+rootProject.name = 'parser'
+rootProject.buildFileName = 'build.gradle.kts'
+
